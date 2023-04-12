@@ -1,0 +1,3 @@
+#!/bin/bash
+mkdir papka100500
+touch file10500.file
